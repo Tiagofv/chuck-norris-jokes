@@ -1,9 +1,8 @@
 <?php
-namespace tiago\chuckApi\Tests;
+namespace Tiagofv\chuckApi\Tests;
 
 use PHPUnit\Framework\TestCase;
-use tiago\chuckApi\JokeFactory;
-
+use Tiagofv\chuckApi\JokeFactory;
 class JokeFactoryTest extends TestCase
 {
     /** @test */

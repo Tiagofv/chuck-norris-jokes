@@ -1,6 +1,6 @@
 <?php
 
-namespace tiago\chuckApi;
+namespace Tiagofv\chuckApi;
 class JokeFactory{
     public $jokes = [
         'This is a Joke',

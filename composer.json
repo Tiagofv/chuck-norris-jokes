@@ -1,5 +1,5 @@
 {
-    "name": "tiago/chuck-api",
+    "name": "tiagofv/chuck-api",
     "description": "Chuck random",
     "type": "library",
     "license": "MIT",
@@ -15,12 +15,12 @@
     },
     "autoload": {
         "psr-4": {
-            "tiago\\chuckApi\\": "src/"
+            "Tiagofv\\chuckApi\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "tiago\\chuckApi\\Tests\\": "tests/"
+            "Tiagofv\\chuckApi\\Tests\\": "tests/"
         }
     }
 }
